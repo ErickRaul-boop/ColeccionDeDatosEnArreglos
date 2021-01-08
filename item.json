@@ -1,0 +1,23 @@
+[
+    {
+        "name":"Alvin",
+        "item":"Eclair",
+        "price":"$0.87"
+    },
+    {
+        "name":"Alan",
+        "item":"Jellybean",
+        "price":"$3.76"
+    },
+    {
+        "name":"Jonathan",
+        "item":"Lollipop",
+        "price":"$7.00"
+    },
+    {
+        "name":"Shannon",
+        "item":"Kitkat",
+        "price":"$9.99"
+    }
+    
+]
